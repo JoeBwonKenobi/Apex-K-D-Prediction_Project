@@ -23,7 +23,32 @@ Here are some overall career statistics about the data:
 - The average total damage per season overall is: 180922
 - The average number of total top 5 finishes per season is: 162
 
-%%html
+# **Visualizations**
+
+## **Average Knocks Per Game/ K/D Ratio by season**
+
+- This is an overall good measurement for gauging improvment throughout the seasons as far as getting knocks(downing another player in the game).
+- The 'R' stands for Ranked, a separate more competeive game mode, the stats for the ranked season are included in the season as a whole.
+
+![Average knocks-K-D](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/779ecf28-11b7-417c-8e50-f495788fab2a)
+
+## **Average Damage / Total Top 5 Per season**
+
+- This is also an overall good measurement for gauging improvement throughout the seasons because it shows a comparison of Average damage per match and number of top 5 finishes in a seson. If these are both improving then not only I am a getting more damage per match on average, but I'm also finishing in the Top 5 more often which should ultimately mean more wins, knocks, and kills overall.
+
+  
+![Average Damage - Total Top 5 Per Season](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/f576078d-a406-4e20-8a4d-9a17de24b3a0)
+
+
+## **Average Revives / Respawn Per match**
+
+- This shows the average amount of revives and respawns per match by season. This is in a way a good measure of being a good teamate, but also a measure of how goo/bad my teamates are, which most of the time is comletely out of my control.
+
+![Average Revive - Respawn Per Match](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/fafe76a4-1172-4e1b-9640-4bbbb46a1df4)
+
+
+
+
 
 
 
