@@ -15,7 +15,7 @@ I preformed feature engineering to create more columns using the existing data. 
 
 - Average assists per match - Divided Assists column by total games played.
 
-- Average damage per match- Total damage divided by total games played.
+- Average damage per match - Total damage divided by total games played.
 
 Here are some overall career statistics about the data:
 
