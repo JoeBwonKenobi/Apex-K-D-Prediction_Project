@@ -1,9 +1,12 @@
 # Apex K/D Prediction_Project
  Predicting future K/D Ratios for Apex Legends
 
-Project objective: construct a model to predict Kills and deaths in Apex Legends
+# **Project objective:**
+- Visualize trends throughout seasons, and construct a model to predict Kills a death ratio in Apex Legends.
 
-I obtained data directly from the in-game stats and made it into a dataframe so that I could visualize and prepare the data for modeling
+# **Methods**
+
+I obtained data directly from the in-game statistics and made it into a dataframe so that I could visualize and prepare the data for modeling.
 
 I preformed feature engineering to create more columns using the existing data. Here's a list of columns and how they were created:
 
@@ -49,10 +52,6 @@ Here are some overall career statistics about the data:
 
 
 ![Average Revive - Respawn](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/4c3a1d54-159a-4302-ae1d-1114a2429759)
-
-
-
-
 
 
 Linear Regression model
