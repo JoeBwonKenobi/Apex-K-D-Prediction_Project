@@ -29,8 +29,9 @@ Here are some overall career statistics about the data:
 
 - This is an overall good measurement for gauging improvment throughout the seasons as far as getting knocks(downing another player in the game).
 - The 'R' stands for Ranked, a separate more competeive game mode, the stats for the ranked season are included in the season as a whole.
+- 
+![AVERAGE KNOCKS](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/626568d0-90f8-4910-9b42-aaa09d64d414)
 
-![Average knocks-K-D](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/779ecf28-11b7-417c-8e50-f495788fab2a)
 
 ## **Average Damage / Total Top 5 Per season**
 
