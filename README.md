@@ -1,5 +1,9 @@
 # Apex K/D Prediction_Project
  Predicting future K/D Ratios for Apex Legends
+ 
+![Apex_legends](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/1ae5ab05-1ddf-4097-8e74-7a1988a0ffc2)
+
+
 
 # **Project objective:**
 - Visualize trends throughout seasons, and construct a model to predict Kills a death ratio in Apex Legends.
@@ -69,4 +73,4 @@ I used a linear regression model to predict the number of kills in a season. I r
 ![Apex linear Model](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/d488882b-04f9-4cdb-9546-297c90376a9c)
 
 
-The model's performance on the training data is remarkably accurate, perfectly predicting outcomes. For the testing data, the model performs very well too, explaining most of the variability in predictions, with only minor discrepancies between predicted and actual values.
+The model's performance on the training data is remarkably accurate, perfectly predicting outcomes. For the testing data, the model performs very well too, explaining most of the variability in predictions, with only minor discrepancies between predicted and actual values. This model is excellent at predicting the amount of kills in a season of Apex Legends.
