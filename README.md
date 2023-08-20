@@ -1,9 +1,9 @@
 # Apex K/D Prediction_Project
  Predicting future K/D Ratios for Apex Legends
  
-![Apex_legends](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/1ae5ab05-1ddf-4097-8e74-7a1988a0ffc2)
 
 
+<img src="https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/e1168bbb-48b7-4e49-91fc-e7a20b4af394" alt="Apex Legends" width="50%">
 
 # **Project objective:**
 - Visualize trends throughout seasons, and construct a model to predict Kills a death ratio in Apex Legends.
