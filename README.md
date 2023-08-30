@@ -7,11 +7,11 @@
 *I do not own this photo*
 
 # **Project objective:**
-- Visualize trends throughout seasons, and construct a model to predict Kills a death ratio in Apex Legends.
+- Visualize trends throughout seasons, and construct a model to predict Kills to death ratio in Apex Legends.
 
 # **Methods**
 
-I obtained data directly from the in-game statistics and made it into a dataframe so that I could visualize and prepare the data for modeling.
+I obtained data directly from the in-game statistics and transformed it into a dataframe so that I could visualize and prepare the data for modeling.
 
 I preformed feature engineering to create more columns using the existing data. Here's a list of columns and how they were created:
 
