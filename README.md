@@ -1,5 +1,10 @@
 # Apex K/D Prediction_Project
  Predicting future K/D Ratios for Apex Legends
+ 
+
+
+<img src="https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/e1168bbb-48b7-4e49-91fc-e7a20b4af394" alt="Apex Legends" width="100%">
+*I do not own this photo*
 
 # **Project objective:**
 - Visualize trends throughout seasons, and construct a model to predict Kills a death ratio in Apex Legends.
@@ -33,17 +38,23 @@ Here are some overall career statistics about the data:
 - This is an overall good measurement for gauging improvment throughout the seasons as far as getting knocks(downing another player in the game).
 - The 'R' stands for Ranked, a separate more competeive game mode, the stats for the ranked season are included in the season as a whole.
 
-  
-![AVERAGE KNOCKS](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/626568d0-90f8-4910-9b42-aaa09d64d414)
+
+
+![AVERAGE KNOCKS](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/5db5a0e8-e3dd-4e87-a73a-9ab5582e8115)
+
+
+
 
 
 ## **Average Damage / Total Top 5 Per season**
 
 - This is also an overall good measurement for gauging improvement throughout the seasons because it shows a comparison of Average damage per match and number of top 5 finishes in a seson. If these are both improving then not only I am a getting more damage per match on average, but I'm also finishing in the Top 5 more often which should ultimately mean more wins, knocks, and kills overall.
 
-  
-![Average Damage- Total Top 5](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/b23182b1-81a2-4e59-9d98-f06e51b82371)
 
+
+![Average Damage- Total Top 5](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/8ceaabd7-bfb4-49a4-bf41-20c0b9cf8203)
+
+ 
 
 
 ## **Average Revives / Respawn Per match**
@@ -52,9 +63,20 @@ Here are some overall career statistics about the data:
 
 
 
-![Average Revive - Respawn](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/4c3a1d54-159a-4302-ae1d-1114a2429759)
+![Average Revive - Respawn](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/2cfa752a-e402-4302-a6b4-cc13809f3c00)
 
+
+
+# **Model analysis**
 
 Linear Regression model
+I used a linear regression model to predict the number of kills in a season. I recived the following results upon running the model:
 
-The model's performance on the training data is remarkably accurate, perfectly predicting outcomes. For the testing data, the model performs very well too, explaining most of the variability in predictions, with only minor discrepancies between predicted and actual values.
+![Apex linear Model](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/d488882b-04f9-4cdb-9546-297c90376a9c)
+
+
+The model's performance on the training data is remarkably accurate, perfectly predicting outcomes. For the testing data, the model performs very well too, explaining most of the variability in predictions, with only minor discrepancies between predicted and actual values. This model is excellent at predicting the amount of kills in a season of Apex Legends. 
+
+# **Project Conclusion**
+
+There are a large amount of things to consider when predicting something like a k/d for a season worth of play, especially with a game like apex that constantly updates, has an unpredictable amount of players at different times of the day that have an unpredictable amount of skill for the match I would hypothetically face them in. There are many other factors to consider, but the purpose of this project was to make preictions based on the data provided.
