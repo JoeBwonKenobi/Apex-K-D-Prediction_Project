@@ -67,11 +67,16 @@ Here are some overall career statistics about the data:
 
 
 
+# **Model analysis**
 
 Linear Regression model
 I used a linear regression model to predict the number of kills in a season. I recived the following results upon running the model:
 
 ![Apex linear Model](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/d488882b-04f9-4cdb-9546-297c90376a9c)
 
-# **Model analysis and conclusions**
-The model's performance on the training data is remarkably accurate, perfectly predicting outcomes. For the testing data, the model performs very well too, explaining most of the variability in predictions, with only minor discrepancies between predicted and actual values. This model is excellent at predicting the amount of kills in a season of Apex Legends. There are a large amount of things to consider when predicting something like a k/d for a season worth of play, especially with a game like apex that constantly updates, has an unpredictable amount of players at different times of the day that have an unpredictable amount of skill for the match I would hypothetically face them in. There are many other factors to consider, but the purpose of this project was to make preictions based on the data provided.
+
+The model's performance on the training data is remarkably accurate, perfectly predicting outcomes. For the testing data, the model performs very well too, explaining most of the variability in predictions, with only minor discrepancies between predicted and actual values. This model is excellent at predicting the amount of kills in a season of Apex Legends. 
+
+# **Project Conclusion**
+
+There are a large amount of things to consider when predicting something like a k/d for a season worth of play, especially with a game like apex that constantly updates, has an unpredictable amount of players at different times of the day that have an unpredictable amount of skill for the match I would hypothetically face them in. There are many other factors to consider, but the purpose of this project was to make preictions based on the data provided.
