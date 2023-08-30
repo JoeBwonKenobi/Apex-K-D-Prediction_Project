@@ -65,7 +65,7 @@ Here are some overall career statistics about the data:
 
 ![Average Revive - Respawn](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/2cfa752a-e402-4302-a6b4-cc13809f3c00)
 
-
+- These visuals give insight about some of the aspects of the game and my progress throughout the seasons. There are several others available on my tableau public profile.
 
 # **Model analysis**
 
