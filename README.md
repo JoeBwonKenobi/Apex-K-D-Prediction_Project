@@ -4,6 +4,7 @@
 
 
 <img src="https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/e1168bbb-48b7-4e49-91fc-e7a20b4af394" alt="Apex Legends" width="100%">
+*I do not own this photo*
 
 # **Project objective:**
 - Visualize trends throughout seasons, and construct a model to predict Kills a death ratio in Apex Legends.
