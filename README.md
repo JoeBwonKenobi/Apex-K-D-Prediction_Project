@@ -9,7 +9,7 @@
 # **Project objective:**
 - Visualize trends throughout seasons, and construct a model to predict Kills to death ratio in Apex Legends.
 
-# ##About Apex Legends:**
+##**About Apex Legends:**
 
 Apex Legends is an extremely fast-paced, free-to-play battle royale game set in the Titanfall universe. In this highly competitive online multiplayer game, players are grouped into squads of three, each controlling a unique character known as a "Legend." The objective is to be the last squad standing among 20 squads on a constantly shrinking map.
 
