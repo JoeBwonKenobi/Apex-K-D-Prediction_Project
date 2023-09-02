@@ -9,6 +9,14 @@
 # **Project objective:**
 - Visualize trends throughout seasons, and construct a model to predict Kills to death ratio in Apex Legends.
 
+# ##About Apex Legends:**
+
+Apex Legends is an extremely fast-paced, free-to-play battle royale game set in the Titanfall universe. In this highly competitive online multiplayer game, players are grouped into squads of three, each controlling a unique character known as a "Legend." The objective is to be the last squad standing among 20 squads on a constantly shrinking map.
+
+Players jump into the game from a dropship, and once on the ground, they scavenge for weapons, equipment, and resources to survive. During combat, if a player takes substantial damage, they can be "knocked down." This means they are temporarily incapacitated and can only crawl on the ground. Teammates can revive knocked players, but if not rescued in time, they may bleed out or be killed. The game's dynamics involve a blend of gunplay, strategic positioning, and effective use of each Legend's unique abilities to secure victory.
+
+The shrinking play area forces intense encounters and strategic decisions as squads fight to eliminate each other. The ranked version of the game is esentailly the same only with a score provided at the end of each match that coralates with a point system to assign the player a rank. At the end of a given season, a player may recieve rewards based on their preformance in "Ranked" that can be visable to other players. Apex Legends is known for its diverse cast of Legends, each with their own special abilities that add layers of tactics and team synergy to the gameplay. It continues to evolve with regular updates, making it a dynamic and engaging battle royale experience. There is a collection of the players preformance data in-game provided to the player simply by loading into the main game lobby and clicking on their avatar.
+
 # **Methods**
 
 I obtained data directly from the in-game statistics and transformed it into a dataframe so that I could visualize and prepare the data for modeling.
