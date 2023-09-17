@@ -35,10 +35,10 @@ I preformed feature engineering to create more columns using the existing data. 
 
 Here are some overall career statistics about the data:
 
-- The average number of total kills per season is: 389
+- The average number of total kills per season overall is: 389
 - The average total damage per season overall is: 180922
-- The average number of total top 5 finishes per season is: 162
-
+- The average number of total top 5 finishes per season overall is: 162
+  
 # **Visualizations**
 
 ## **Average Knocks Per Game/ K/D Ratio by season**
