@@ -78,7 +78,8 @@ Here are some overall career statistics about the data:
 # **Model analysis**
 
 Linear Regression model
-I used a linear regression model to predict the number of kills in a season. I recived the following results upon running the model:
+I used a linear regression model to predict the number of kills in a season. The R2 score gauges how well the model predicts what it was built to predict.
+I recived the following results upon running the model:
 
 ![Apex linear Model](https://github.com/JoeBwonKenobi/Apex-K-D-Prediction_Project/assets/117705408/d488882b-04f9-4cdb-9546-297c90376a9c)
 
